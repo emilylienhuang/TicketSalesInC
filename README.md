@@ -126,8 +126,8 @@ The projects in this repository range from beginner-friendly exercises to more a
 Compile a Program:
 
 2. **Use GCC or any other C compiler to compile the programs:**
-   '''bash
+   ```bash
    gcc program_nam.c -o program_name
 3. **Run the exectuable**
-   '''bash
+   ```bash
    ./program_name
